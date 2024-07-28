@@ -3,10 +3,10 @@
 #include "list.h"
 
 void main(){
-  Student student1 = { 0, "Joao", 10, 10, 10 };
+  Student student1 = { 1, "Joao", 10, 10, 10 };
   Student student2 = { 2, "Maria", 10, 10, 10 };
   Student student3 = { 3, "Pedro", 10, 10, 10 };
-  Student student4 = { 1, "Pedro", 10, 10, 10 };
+  Student student4 = { 4, "Pedro", 10, 10, 10 };
   Student student5;
   Student student6;
 
